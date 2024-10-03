@@ -6,3 +6,5 @@ for i in range(0, a):
     else:
         res = res+4
 print(res)
+
+# Цикл излишен -)
