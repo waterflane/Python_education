@@ -43,7 +43,7 @@ print(spisok)
 
 #3
 def filt(zov):
-    if len(zov)<5:
+    if len(zov)>5:
         return True
     return False
 
